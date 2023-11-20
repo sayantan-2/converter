@@ -22,5 +22,13 @@ This is a web-based tool designed to convert between different numerical systems
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
+## Tech Stack
+The website is built using the following technologies:
+
+- **HTML5**: For structuring the content of the website.
+- **CSS3**: For styling the website and making it responsive.
+- **JavaScript**: For adding interactivity to the website, such as converting numbers, copying and pasting numbers, and clearing text areas.
+
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+- If you find this project useful, please consider giving it a star :star: on GitHub. Your support helps motivate continued development and maintenance. We appreciate your contribution and feedback!
